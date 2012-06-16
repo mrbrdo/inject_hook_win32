@@ -1,0 +1,5 @@
+ko brises thread...
+ko brises instruction hook..
+pazi da ne pobrises medtem ko se bere
+
+text: be careful, some optimizations may inline simple functions or merge 2 functions with same code into one
